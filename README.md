@@ -1,4 +1,4 @@
-# first-meba-repo
+# how-to-vim
 This is my first readme with vim.
 
 [SEE DEMO](https://github.com/ronieo/first-meba-repo)
